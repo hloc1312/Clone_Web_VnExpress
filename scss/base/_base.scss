@@ -1,0 +1,13 @@
+// Reset CSS
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: relative;
+}
